@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042717013644",
+    "firebase_url": "https://messageapp-9a865.firebaseio.com",
+    "project_id": "messageapp-9a865",
+    "storage_bucket": "messageapp-9a865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042717013644:android:73c266f72dc6e55c44ada9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042717013644-jl2jtkpbu8ptpqssksu761e12kpkafp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "00bdc520abb681af3c62ae03b39198d031c457f2"
+          }
+        },
+        {
+          "client_id": "1042717013644-3pmj4bo2m4akh6t4ugtvv4s49ns7r8mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtW10_5tVskIiE4bYd6d435eJTS78Shg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042717013644-3pmj4bo2m4akh6t4ugtvv4s49ns7r8mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
